@@ -1,0 +1,6 @@
+{
+  "name": "Charty AI: Coder & Creator",
+  "description": "An advanced AI chatbot that can generate code, create images, and analyze documents. Featuring a sleek, animated interface with particle effects, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
